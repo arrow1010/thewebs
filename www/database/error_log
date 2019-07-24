@@ -1,0 +1,8 @@
+[02-Feb-2019 12:41:45 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 12:43:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 12:46:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 13:01:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 13:04:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 13:06:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 13:06:59 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 13:18:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2

@@ -1,0 +1,29 @@
+[27-Oct-2018 18:22:19 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:22:32 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:22:32 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:22:32 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/letexikm/public_html/admin/profile.php on line 99
+[27-Oct-2018 18:22:32 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/letexikm/public_html/admin/profile.php on line 100
+[27-Oct-2018 18:24:05 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:24:05 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/letexikm/public_html/admin/profile.php on line 99
+[27-Oct-2018 18:24:05 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/letexikm/public_html/admin/profile.php on line 100
+[27-Oct-2018 18:25:04 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:28:48 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:29:20 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:29:20 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm_letexik'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:29:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/letexikm/public_html/admin/profile.php on line 99
+[27-Oct-2018 18:29:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/letexikm/public_html/admin/profile.php on line 100
+[27-Oct-2018 18:33:18 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:33:18 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/letexikm/public_html/admin/profile.php on line 99
+[27-Oct-2018 18:33:18 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/letexikm/public_html/admin/profile.php on line 100
+[27-Oct-2018 18:33:23 Etc/GMT] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'letexikm'@'162.215.253.215' to database 'letexikm_letexik' in /home/letexikm/public_html/admin/connection.php on line 3
+[27-Oct-2018 18:33:23 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/letexikm/public_html/admin/profile.php on line 99
+[27-Oct-2018 18:33:23 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/letexikm/public_html/admin/profile.php on line 100
+[30-Oct-2018 06:54:52 Etc/GMT] PHP Notice:  Undefined index: username in /home/letexikm/public_html/admin/verify.php on line 4
+[30-Oct-2018 06:54:52 Etc/GMT] PHP Notice:  Undefined index: password in /home/letexikm/public_html/admin/verify.php on line 5
+[30-Oct-2018 06:55:00 Etc/GMT] PHP Notice:  Undefined index: username in /home/letexikm/public_html/admin/verify.php on line 4
+[30-Oct-2018 06:55:00 Etc/GMT] PHP Notice:  Undefined index: password in /home/letexikm/public_html/admin/verify.php on line 5
+[10-Feb-2019 15:25:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thewebsi/public_html/quiz/admin/verify.php:9) in /home/thewebsi/public_html/quiz/admin/verify.php on line 14
+[10-Feb-2019 15:49:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thewebsi/public_html/quiz/admin/verify.php:9) in /home/thewebsi/public_html/quiz/admin/verify.php on line 14
+[10-Feb-2019 15:56:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thewebsi/public_html/quiz/admin/verify.php:9) in /home/thewebsi/public_html/quiz/admin/verify.php on line 14
+[10-Feb-2019 16:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thewebsi/public_html/quiz/admin/verify.php:9) in /home/thewebsi/public_html/quiz/admin/verify.php on line 14
+[10-Feb-2019 16:56:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thewebsi/public_html/quiz/admin/verify.php:9) in /home/thewebsi/public_html/quiz/admin/verify.php on line 14

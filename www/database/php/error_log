@@ -1,0 +1,46 @@
+[02-Feb-2019 12:40:54 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 12:40:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[02-Feb-2019 12:40:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[02-Feb-2019 12:40:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[02-Feb-2019 12:40:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[02-Feb-2019 12:41:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 12:41:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[02-Feb-2019 12:41:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[02-Feb-2019 12:41:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[02-Feb-2019 12:41:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[02-Feb-2019 12:41:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[02-Feb-2019 12:41:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[02-Feb-2019 12:41:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[02-Feb-2019 12:41:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[02-Feb-2019 12:41:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[17-Feb-2019 06:48:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Feb-2019 06:48:57 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 44
+[17-Feb-2019 06:49:58 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Feb-2019 06:49:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 44
+[17-Feb-2019 06:50:31 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Feb-2019 06:50:31 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[17-Feb-2019 06:50:31 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[17-Feb-2019 06:50:31 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[17-Feb-2019 06:50:31 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[17-Feb-2019 21:50:42 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Feb-2019 21:50:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 44
+[14-Apr-2019 23:26:57 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[14-Apr-2019 23:26:57 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[14-Apr-2019 23:26:57 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[14-Apr-2019 23:26:57 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[14-Apr-2019 23:26:57 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[14-Apr-2019 23:29:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[14-Apr-2019 23:29:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[14-Apr-2019 23:29:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[14-Apr-2019 23:29:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[14-Apr-2019 23:29:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[17-Jul-2019 11:19:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Jul-2019 11:19:47 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[17-Jul-2019 11:19:47 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[17-Jul-2019 11:19:47 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[17-Jul-2019 11:19:47 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
+[17-Jul-2019 11:21:26 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/thewebsi/public_html/database/dbcon.php on line 2
+[17-Jul-2019 11:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 9
+[17-Jul-2019 11:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 10
+[17-Jul-2019 11:21:26 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 12
+[17-Jul-2019 11:21:26 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thewebsi/public_html/database/php/contact.php on line 22
